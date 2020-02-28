@@ -5,10 +5,13 @@
  */
 package com.mycompany.clase4.model;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 /**
  *
  * @author EducaciónIT
  */
+@XmlRootElement
 public class Client {
     
     private String name;
