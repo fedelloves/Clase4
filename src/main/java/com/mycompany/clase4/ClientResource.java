@@ -25,9 +25,9 @@ public class ClientResource {
         c1.setLastName("Perez");
         c1.setAge(25);
         
-        c1.setName("Alberto");
-        c1.setLastName("Gomez");
-        c1.setAge(50);
+        c2.setName("Alberto");
+        c2.setLastName("Gomez");
+        c2.setAge(50);
         
         clients.add(c1);
         clients.add(c2);
